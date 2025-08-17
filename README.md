@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Vishnu Vijayan VS  
 
 🚀 **Cybersecurity Architect | Red Team Specialist | Mentor | Academic–Industry Consultant**  
-🌐 Founder of [hackwithvishnu.com](https://hackwithvishnu.com) | Building Future Cyber Defenders  
+🌐 Founder of Nixie_Bytes Security Team | Building Future Cyber Defenders  
 
 ---
 
